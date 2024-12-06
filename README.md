@@ -4,7 +4,9 @@ We have also taken care of the cases of the assembly code, i.e., the assembler w
 
 
 Example 1: ADD R1 R2 R3
+
 The above line implies that R3 is the destination register where the value of R1+R2 is stored.
 
 Example 2: ADDI R1 $4 R1
+
 We have also used $ sign before immediate and offset values.
